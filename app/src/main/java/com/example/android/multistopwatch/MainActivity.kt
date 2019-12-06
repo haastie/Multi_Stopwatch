@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
       quickstart.setOnClickListener {
          d ( "Test", "quickstart pressed")
           startActivity(Intent(this, quickstart::class.java ))
+          //Klik op de knop: quickstart om naar het volgend scherm te gaan
       }
     }
 }

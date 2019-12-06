@@ -7,5 +7,6 @@ class Quickstart : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_quickstart)
+        //Creeeren nieuw scherm voor quickstart
     }
 }
