@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Multi Stopwatch</string>
+    <string name="quickstart">Quick start</string>
+    <string name="new_session">New Session</string>
+    <string name="results">Results</string>
 </resources>
