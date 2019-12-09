@@ -31,4 +31,11 @@ android:layout_gravity="center_vertical">
         android:layout_gravity="center_horizontal"
         android:id="@+id/results_button"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/test"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/test_button"/>
+
 </LinearLayout>
